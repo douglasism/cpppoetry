@@ -7,6 +7,6 @@ using namespace std;
 
 int main()
 {
-	cout << "hollow world" << endl;
+	cout << "hollow worlds" << endl;
 	return 0;
 }
